@@ -11,10 +11,10 @@ Student ID: SE231064
 npm install
 ```
 
-2. Install browsers:
+2. Install Chromium browser:
 
 ```bash
-npx playwright install
+npm run install:browsers
 ```
 
 3. Run tests:
@@ -22,3 +22,5 @@ npx playwright install
 ```bash
 npx playwright test
 ```
+
+

@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "Playwright automation assignment for Sauce Demo",
   "scripts": {
-    "test": "playwright test"
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "install:browsers": "playwright install chromium",
+    "install:deps": "playwright install-deps chromium"
   },
   "devDependencies": {
-    "@playwright/test": "^1.52.0"
+    "@playwright/test": "^1.61.0"
   }
 }
