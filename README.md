@@ -23,4 +23,7 @@ npm run install:browsers
 npx playwright test
 ```
 
+<img width="949" height="472" alt="PassTest" src="https://github.com/user-attachments/assets/b11d2236-be3f-48ca-bd07-48aba88cc78a" />
+
+
 
