@@ -1,7 +1,7 @@
 # Playwright Automation Project
 
-Name: Arham Afarhan Ahmed  
-Student ID: [Add your student ID here]
+Name: Arhama Farhan  
+Student ID: SE231064
 
 ## How to run tests
 
