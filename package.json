@@ -1,0 +1,11 @@
+{
+  "name": "playwright-ui-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation assignment for Sauce Demo",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
